@@ -1,0 +1,77 @@
+{
+  "environment": {
+    "python": "3.14.5 (main, May 12 2026, 01:14:00)  [MINGW GCC 16.1.0 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "poppler": "26.04.0",
+    "pikepdf": "10.5.1",
+    "pillow": "12.2.0",
+    "cairo": "1.18.4",
+    "gtk": "3.24.52"
+  },
+  "zoom": 0.25,
+  "trials": [
+    {
+      "trial": 1,
+      "page": 1,
+      "poppler_icc_seconds": 1.3061401000013575,
+      "poppler_rgb_control_seconds": 0.019123399979434907,
+      "jpeg_preview_seconds": 0.0896049999864772
+    },
+    {
+      "trial": 1,
+      "page": 2,
+      "poppler_icc_seconds": 1.0753896000096574,
+      "poppler_rgb_control_seconds": 0.017023500055074692,
+      "jpeg_preview_seconds": 0.04956720001064241
+    },
+    {
+      "trial": 1,
+      "page": 3,
+      "poppler_icc_seconds": 0.925647099968046,
+      "poppler_rgb_control_seconds": 0.019440900068730116,
+      "jpeg_preview_seconds": 0.05174029991030693
+    },
+    {
+      "trial": 2,
+      "page": 1,
+      "poppler_icc_seconds": 0.9161922000348568,
+      "poppler_rgb_control_seconds": 0.015282299951650202,
+      "jpeg_preview_seconds": 0.003649100079201162
+    },
+    {
+      "trial": 2,
+      "page": 2,
+      "poppler_icc_seconds": 0.9611512999981642,
+      "poppler_rgb_control_seconds": 0.01959709997754544,
+      "jpeg_preview_seconds": 0.006439200020395219
+    },
+    {
+      "trial": 2,
+      "page": 3,
+      "poppler_icc_seconds": 0.9324523999821395,
+      "poppler_rgb_control_seconds": 0.03777079994324595,
+      "jpeg_preview_seconds": 0.00659320002887398
+    },
+    {
+      "trial": 3,
+      "page": 1,
+      "poppler_icc_seconds": 0.9261403999989852,
+      "poppler_rgb_control_seconds": 0.02022860001306981,
+      "jpeg_preview_seconds": 0.0036354000912979245
+    },
+    {
+      "trial": 3,
+      "page": 2,
+      "poppler_icc_seconds": 0.9457841000985354,
+      "poppler_rgb_control_seconds": 0.01750410010572523,
+      "jpeg_preview_seconds": 0.003333800006657839
+    },
+    {
+      "trial": 3,
+      "page": 3,
+      "poppler_icc_seconds": 1.0297735000494868,
+      "poppler_rgb_control_seconds": 0.024200099986046553,
+      "jpeg_preview_seconds": 0.009254499920643866
+    }
+  ]
+}

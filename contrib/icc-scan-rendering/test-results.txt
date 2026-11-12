@@ -1,0 +1,115 @@
+test_bad_jpeg_falls_back (test_scanpreview.ScanPreviewTest.test_bad_jpeg_falls_back) ... ok
+test_cache_bound_eviction_and_release (test_scanpreview.ScanPreviewTest.test_cache_bound_eviction_and_release) ... ok
+test_context_and_source_file_unchanged (test_scanpreview.ScanPreviewTest.test_context_and_source_file_unchanged) ... ok
+test_encrypted_scan (test_scanpreview.ScanPreviewTest.test_encrypted_scan) ... ok
+test_icc_and_rotations_match_poppler (test_scanpreview.ScanPreviewTest.test_icc_and_rotations_match_poppler) ... ok
+test_missing_optional_color_support_falls_back (test_scanpreview.ScanPreviewTest.test_missing_optional_color_support_falls_back) ... ok
+test_renderer_fallback_preserves_extra_drawing (test_scanpreview.ScanPreviewTest.test_renderer_fallback_preserves_extra_drawing) ... ok
+test_unsupported_content_returns_false_without_painting (test_scanpreview.ScanPreviewTest.test_unsupported_content_returns_false_without_painting) ... ok
+test01 (test_core.BasePageTest.test01)
+Test width | height | size_in_points ... ok
+test02 (test_core.BasePageTest.test02)
+Test rotate_times ... ok
+test01 (test_core.LayerPageTest.test01)
+Test rotate ... ok
+test02 (test_core.LayerPageTest.test02)
+Test duplicate ... ok
+test03 (test_core.LayerPageTest.test03)
+Test serialize ... ok
+test01 (test_core.PageTest.test01)
+Test rotate ... ok
+test02 (test_core.PageTest.test02)
+Test duplicate ... ok
+test03 (test_core.PageTest.test03)
+Test serialize ... ok
+test04 (test_core.PageTest.test04)
+Test width | height | size_in_pixel ... ok
+test05 (test_core.PageTest.test05)
+Test unmodified ... ok
+__add__ (pdfarranger.core.Dims)
+Doctest: pdfarranger.core.Dims.__add__ ... ok
+__mul__ (pdfarranger.core.Dims)
+Doctest: pdfarranger.core.Dims.__mul__ ... ok
+__neg__ (pdfarranger.core.Dims)
+Doctest: pdfarranger.core.Dims.__neg__ ... ok
+__sub__ (pdfarranger.core.Dims)
+Doctest: pdfarranger.core.Dims.__sub__ ... ok
+__truediv__ (pdfarranger.core.Dims)
+Doctest: pdfarranger.core.Dims.__truediv__ ... ok
+__add__ (pdfarranger.core.Sides)
+Doctest: pdfarranger.core.Sides.__add__ ... ok
+__mul__ (pdfarranger.core.Sides)
+Doctest: pdfarranger.core.Sides.__mul__ ... ok
+__neg__ (pdfarranger.core.Sides)
+Doctest: pdfarranger.core.Sides.__neg__ ... ok
+__sub__ (pdfarranger.core.Sides)
+Doctest: pdfarranger.core.Sides.__sub__ ... ok
+__truediv__ (pdfarranger.core.Sides)
+Doctest: pdfarranger.core.Sides.__truediv__ ... ok
+max (pdfarranger.core.Sides)
+Doctest: pdfarranger.core.Sides.max ... ok
+rotated (pdfarranger.core.Sides)
+Doctest: pdfarranger.core.Sides.rotated ... ok
+test01 (test_exporter.ExporterTest.test01)
+No transformations ... ok
+test02 (test_exporter.ExporterTest.test02)
+Rotate pages ... ok
+test03 (test_exporter.ExporterTest.test03)
+Rotate pages with existing /Rotate ... ok
+test04 (test_exporter.ExporterTest.test04)
+Scale page ... ok
+test05 (test_exporter.ExporterTest.test05)
+Crop page ... ok
+test06 (test_exporter.ExporterTest.test06)
+Rotate and crop page ... ok
+test07 (test_exporter.ExporterTest.test07)
+Overlay page ... ok
+test08 (test_exporter.ExporterTest.test08)
+Underlay page ... ok
+test09 (test_exporter.ExporterTest.test09)
+Rotate overlay ... ok
+test095 (test_exporter.ExporterTest.test095)
+Overlay page with itself - MediaBox with non-integer values ... ok
+test096 (test_exporter.ExporterTest.test096)
+Overlay page with itself - MediaBox with non-standard corners ... ok
+test10 (test_exporter.ExporterTest.test10)
+Offset overlay horizontal ... ok
+test11 (test_exporter.ExporterTest.test11)
+Offset overlay vertical ... ok
+test12 (test_exporter.ExporterTest.test12)
+Duplicate page with annotations ... ok
+test13 (test_exporter.ExporterTest.test13)
+Rotate page with  annotations ... ok
+test14 (test_exporter.ExporterTest.test14)
+Scale page with annotations ... ok
+test15 (test_exporter.ExporterTest.test15)
+Crop page with annotations ... ok
+test16 (test_exporter.ExporterTest.test16)
+Overlay page with annotations ... ok
+test17 (test_exporter.ExporterTest.test17)
+File with missing MediaBox ... ok
+test18 (test_exporter.ExporterTest.test18)
+Encrypted file ... ok
+test19 (test_exporter.ExporterTest.test19)
+Copy file with outlines ... ok
+test19a (test_exporter.ExporterTest.test19a)
+Copy file and discard outlines for pikepdf 8 ... ok
+test20 (test_exporter.ExporterTest.test20)
+Reorder pages in file with outlines ... ok
+test21 (test_exporter.ExporterTest.test21)
+Duplicate pages in file with outlines ... ok
+test22 (test_exporter.ExporterTest.test22)
+Rotate pages in file with outlines ... ok
+test23 (test_exporter.ExporterTest.test23)
+Scale pages in file with outlines ... ok
+test24 (test_exporter.ExporterTest.test24)
+Import page with interactive form elements ... ok
+test25 (test_exporter.ExporterTest.test25)
+Duplicate page with interactive form elements ... ok
+test26 (test_exporter.ExporterTest.test26)
+Export with highest PDF versions of input files ... ok
+
+----------------------------------------------------------------------
+Ran 59 tests in 2.456s
+
+OK

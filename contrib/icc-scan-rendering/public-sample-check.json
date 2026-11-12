@@ -1,0 +1,35 @@
+[
+  {
+    "page": 1,
+    "jpeg_sha256": "ac41b5f008316ab50ecca8a403da17c9f91bc428995abbfcf242921d3db89e0a",
+    "identical_jpeg_and_instructions": true,
+    "mean_absolute_rgba_error": [
+      0.01074074074074074,
+      0.009537037037037037,
+      0.01138888888888889,
+      0.0
+    ]
+  },
+  {
+    "page": 2,
+    "jpeg_sha256": "dccab0590ff6debe26bf2e17deb9dea411ef1524e82c26a6b6e102bd82a0d76f",
+    "identical_jpeg_and_instructions": true,
+    "mean_absolute_rgba_error": [
+      0.010671296296296297,
+      0.009699074074074074,
+      0.012013888888888888,
+      0.0
+    ]
+  },
+  {
+    "page": 3,
+    "jpeg_sha256": "4d957ae8361377ba22af7a734318b0da0414f153fea21a720c9edc2ad49b5aac",
+    "identical_jpeg_and_instructions": true,
+    "mean_absolute_rgba_error": [
+      0.009907407407407408,
+      0.009259259259259259,
+      0.012037037037037037,
+      0.0
+    ]
+  }
+]
